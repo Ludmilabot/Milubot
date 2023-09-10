@@ -23,14 +23,14 @@ let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').
 let teksbio = `ludmibot
 *Wa.me/5493585764231*
 
-Zero Owner 1	
+Ludmi Owner 1	
 *Wa.me/5493585764231*
 
-Zero Owner 2
+Ludmi Owner 2
 *Wa.me/5493585764246*
 *---------------------*
 
-THEZERO CONTACTO
+LUDMIBOT CONTACTO
 *${asistencia}*`
   let teks = ' '
 const sections = [
