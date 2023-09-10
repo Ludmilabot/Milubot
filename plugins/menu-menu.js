@@ -101,13 +101,13 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⊜ *ZeroCoins ➟* ${money} 🛍️
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
-*╭━〔 INFORMACIÓN DE THEZEROBOT 〕⬣*
-┃💫➺ ${usedPrefix}creador ➺ zeroprecios ➺ zeroinfo
-┃💫➺ ${usedPrefix}creador ➺ Zero
-┃💫➺ ${usedPrefix}numero de mi creador ➺ wa.me/59897463355
-┃💫➺ ${usedPrefix}para comprar el bot ➺ wa.me/59897463355
+*╭━〔 INFORMACIÓN DE LUDMIBOT 〕⬣*
+┃💫➺ ${usedPrefix}creador ➺ ludmiprecios ➺ zeroinfo
+┃💫➺ ${usedPrefix}creador ➺ ludmi
+┃💫➺ ${usedPrefix}numero de mi creador ➺ wa.me/5493585764231
+┃💫➺ ${usedPrefix}para comprar el bot ➺ wa.me/5493585764231
 ┃💫➺ ${usedPrefix}para ver precios del bot ➺ precios
-┃💫➺ ${usedPrefix}para ver información del bot ➺ zeroinfo
+┃💫➺ ${usedPrefix}para ver información del bot ➺ ludmiinfo
 ┃💫➺ ${usedPrefix}owner | owner
 ┃💫➺ ${usedPrefix}velocidad | ping
 ┃💫➺ Bot_ 
@@ -116,7 +116,7 @@ ${readMore}
 
 *╭━〔 FUNCIÓN SUB BOT 〕━⬣*
 ┃ *Ya puedes convertir tú*
-┃ *Número en TheZeroBot!!*
+┃ *Número en ludmiBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💻 _${usedPrefix}serbot | jadibot_
 ┃💻 _${usedPrefix}bots | listjadibots_
@@ -133,7 +133,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a TheZeroBot en Grupos!!*
+┃ *Une a ludmiBot en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
