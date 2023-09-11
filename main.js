@@ -109,7 +109,7 @@ return { conversation: "hello, i'm GataBot-MD" }},
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['Zero Bot','Edge','1.0.0'],
+browser: ['ludmi Bot','Edge','1.0.0'],
 version   
 }       
        
