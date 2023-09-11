@@ -12,25 +12,25 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['5493585764231', 'LudmiBot', true],  
-  ['5493585764231', 'ludmi bot', true],
-  ['5493585764231', 'ludmi bot 2', true],
-  ['5493585764231', 'ludmi bot', true],
-  ['5493585764231'],
-  ['5493585764231'],
-  ['5493585764231'],
-  ['5493585764231'],
-  ['5493585764231'],
-  ['5493585764231'],
-  ['5493585764231'],
-  ['5493585764231'],
-  ['5493585764231']
+  ['5492915267624', 'LudmiBot', true],  
+  ['5492915267624', 'ludmi bot', true],
+  ['5492915267624', 'ludmi bot 2', true],
+  ['5492915267624', 'ludmi bot', true],
+  ['5492915267624'],
+  ['5492915267624'],
+  ['5492915267624'],
+  ['5492915267624'],
+  ['5492915267624'],
+  ['5492915267624'],
+  ['5492915267624'],
+  ['5492915267624'],
+  ['5492915267624']
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['5493585764231'] 
+global.prems = ['5492915267624'] 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -102,11 +102,11 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['5493585764231', 'ludmibot', 1], 
-['5493585764231', 'ludmibot', 1],  
-['5493585764231', 'ludmibot', 1],
-['5493585764231', 'ludmibot', 1],
-['5493585764231', 'ludmibot', 1]] 
+['5492915267624', 'ludmibot', 1], 
+['5492915267624', 'ludmibot', 1],  
+['5492915267624', 'ludmibot', 1],
+['5492915267624', 'ludmibot', 1],
+['5492915267624', 'ludmibot', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
