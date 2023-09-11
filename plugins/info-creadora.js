@@ -24,10 +24,10 @@ let teksbio = `ludmibot
 *Wa.me/5493585764231*
 
 Ludmi Owner 1	
-*Wa.me/5493585764231*
+*Wa.me/5492915267624*
 
 Ludmi Owner 2
-*Wa.me/5493585764246*
+*Wa.me/5492915267624*
 *---------------------*
 
 LUDMIBOT CONTACTO
