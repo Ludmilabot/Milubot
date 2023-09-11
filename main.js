@@ -90,7 +90,7 @@ loadChatgptDB();
 
 /*------------------------------------------------*/
 
-global.authFile = `ZeroBot`
+global.authFile = `LudmiBot`
 const { state, saveState, saveCreds } = await useMultiFileAuthState(global.authFile)
 const msgRetryCounterMap = MessageRetryMap => { }
 let { version } = await fetchLatestBaileysVersion();
