@@ -81,8 +81,8 @@ let menu = `⌜ *${wm}* ⌟
 *Hola ${taguser}*
 
 □ *Creador: LUDMIBOT*
-□ *Numero del creador: wa.me/5493585764231*
-□ *Numero de la Creadora2: wa.me/5493585764231*
+□ *Numero del creador: wa.me/5492915267624*
+□ *Numero de la Creadora2: wa.me/5492915267624*
 □ *Tiempos activos :* *${uptime}*
 □ *Usuarios:* *${Object.keys(global.db.data.users).length}*
 □ *Registrado: ${rtotalreg} de ${totalreg}* ${(conn.user.jid == global.conn.user.jid ? '' : `\n□ *Soy un sub bot del:* wa.me/${global.conn.user.jid.split`@`[0]}`) || ''}
