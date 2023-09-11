@@ -102,10 +102,10 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
 *╭━〔 INFORMACIÓN DE LUDMIBOT 〕⬣*
-┃💫➺ ${usedPrefix}creador ➺ ludmiprecios ➺ zeroinfo
+┃💫➺ ${usedPrefix}creador ➺ ludmiprecios ➺ ludmiinfo
 ┃💫➺ ${usedPrefix}creador ➺ ludmi
-┃💫➺ ${usedPrefix}numero de mi creador ➺ wa.me/5493585764231
-┃💫➺ ${usedPrefix}para comprar el bot ➺ wa.me/5493585764231
+┃💫➺ ${usedPrefix}numero de mi creador ➺ wa.me/5492915267624
+┃💫➺ ${usedPrefix}para comprar el bot ➺ wa.me/5492915267624
 ┃💫➺ ${usedPrefix}para ver precios del bot ➺ precios
 ┃💫➺ ${usedPrefix}para ver información del bot ➺ ludmiinfo
 ┃💫➺ ${usedPrefix}owner | owner
@@ -190,7 +190,7 @@ ${readMore}
 
 *╭━〔 IA 〕━⬣*
 ┃ *Tienes la Ocasión de*
-┃ *Conversar con TheZeroBot!!*
+┃ *Conversar con ludmiBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_
 ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_
