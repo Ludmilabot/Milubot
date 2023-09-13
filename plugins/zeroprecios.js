@@ -21,24 +21,24 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭「PRECIOS DE Ludmibot」
 │🛍️ *𝙷𝙾𝙻𝙰 𝚀𝚄𝙴 𝚃𝙰𝙻-${taguser}
 │🛍️ *𝚃𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙾 𝚂𝙾𝚈 ludmi
-│🛍️ *𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:http://wa.me/5493585764231
+│🛍️ *𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:http://wa.me/5493813300744
 │🛍️ *𝚃𝙴𝙽𝙶𝙾 𝙳𝙸𝙵𝙴𝚁𝙴𝙽𝚃𝙴𝚂 𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙿𝙰𝚁𝙰 𝙼𝙸𝚂 𝙱𝙾𝚃
 ︎╰───────────────╯
 🛍️᭢━━━━━━━━━᭥🛍️᭢
 ╭「𝐏𝐑𝐄𝐂𝐈𝐎𝐒 𝐃𝐄 𝐏𝐀𝐐𝐔𝐄𝐓𝐄 𝐃𝐄 𝐁𝐎𝐓𝐒 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐀𝐃𝐎𝐒」
-💌Bot Mensual : 🇵🇪4 Yape/🇦🇷500 Cbu/🇲🇽40 MX/💎100
+💌Bot Mensual : 🇵🇪8 Yape/🇦🇷700 Cbu/🇲🇽40 MX/💎300
 
-💌Bot Permanente : 🇵🇪8 Yape/🇦🇷1000 Cbu/🇲🇽60 MX/💎200
+💌Bot Permanente : 🇵🇪18 Yape/🇦🇷2000 Cbu/🇲🇽120 MX/💎1000
 
-💌Bot Personalizado : 🇵🇪13 Yape/🇦🇷1500 Cbu/🇲🇽80 MX/💎300
+💌Bot Personalizado : 🇵🇪19 Yape/🇦🇷1500 Cbu/🇲🇽80 MX/💎900
 
-💌Bot Propio : 🇵🇪16 Yape/🇦🇷2000 Cbu/🇲🇽117 MX/💎500
+💌Bot Propio : 🇵🇪24 Yape/🇦🇷3000 Cbu/🇲🇽117 MX/💎1500
 ╰───────────────╯
 🛍️᭢━━━━━━━━━᭥🛍️᭢
 ╭「𝐏𝐑𝐄𝐂𝐈𝐎𝐒 𝐃𝐄 𝐁𝐎𝐓𝐂𝐈𝐓𝐎𝐒 𝐏𝐀𝐑𝐀 𝐆𝐑𝐔𝐏𝐎𝐒」
-│💌BOT MENSUAL : 🇵🇪4 Yape/🇦🇷500 Cbu/🇲🇽40 MX/💎100
-│💌BOT TRIMESTRAL : 🇵🇪15 Yape/🇦🇷 1300 CBU/🇲🇽70 MX💎400
-│💌BOT PERMANENTE : 🇵🇪8 Yape/🇦🇷1000 Cbu/🇲🇽60 MX/💎200
+│💌BOT MENSUAL : 🇵🇪8 Yape/🇦🇷500 Cbu/🇲🇽40 MX/💎100
+│💌BOT TRIMESTRAL : 🇵🇪15 Yape/🇦🇷 1300 CBU/🇲🇽70 MX💎700
+│💌BOT PERMANENTE : 🇵🇪18 Yape/🇦🇷1000 Cbu/🇲🇽60 MX/💎1000
 │💌HACER NÚMERO BOT :🇵🇪12 Yape/🇦🇷1300 Cbu/🇲🇽75 MX💎50
 ╰───────────────╯
 🛍️᭢━━━━━━━━━᭥🛍️᭢
