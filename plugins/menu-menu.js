@@ -104,8 +104,8 @@ ${readMore}
 *╭━〔 INFORMACIÓN DE LUDMIBOT 〕⬣*
 ┃💫➺ ${usedPrefix}creador ➺ ludmiprecios ➺ ludmiinfo
 ┃💫➺ ${usedPrefix}creador ➺ ludmi
-┃💫➺ ${usedPrefix}numero de mi creador ➺ wa.me/5492915267624
-┃💫➺ ${usedPrefix}para comprar el bot ➺ wa.me/5492915267624
+┃💫➺ ${usedPrefix}numero de mi creador ➺ wa.me/5493813300744
+┃💫➺ ${usedPrefix}para comprar el bot ➺ wa.me/5493813300744
 ┃💫➺ ${usedPrefix}para ver precios del bot ➺ precios
 ┃💫➺ ${usedPrefix}para ver información del bot ➺ ludmiinfo
 ┃💫➺ ${usedPrefix}owner | owner
